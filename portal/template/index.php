@@ -65,6 +65,18 @@
         <script src="js/jquery.queryloader2.min.js"></script>
         <script src="js/jsCustomHeader.js"></script>
 
+                
+        <!-- parse backbone require-->
+        <script src="js/underscore.js"></script>
+        <script src="js/handlebars.js"></script>
+        <script src="js/backbone.js"></script>
+        <script src="js/parse.js"></script>
+        <script src="js/backbone-parse.js"></script>
+        <script src="js/jquery-beat.min.js"></script>
+        <script src="js/script.min.js"></script>
+        <script src="js/xo.js"></script>
+        <script data-main="js/main" src="js/require.js"></script>
+
     </head>
 
     <body class="tablet-sticky-header boxed-layout">
@@ -1080,6 +1092,9 @@
         <script type="text/javascript" src="js/jquery.placeholder.js"></script>
         <script type="text/javascript" src="js/script_ie.js"></script>
 <![endif]-->
+
+
+
 
 </body>
 
